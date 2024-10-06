@@ -11,7 +11,7 @@ The repository is organized into the following projects:
 #### Project 1: Medical Insurance Expense Prediction
 Objective: Estimate individual medical insurance expenses based on factors such as age, BMI, smoking status, and other health-related variables.
 Techniques Used: Linear Regression, Data Preprocessing, Feature Engineering.
-##### Project 2: Coronary Heart Disease Risk Prediction
+#### Project 2: Coronary Heart Disease Risk Prediction
 Objective: Perform binary classification on a dataset to predict the 10-year risk of coronary heart disease.
 Techniques Used: Logistic Regression, Model Evaluation (Accuracy, Confusion Matrix).
 #### Project 3: Decision Tree for Classifying Biological Data
