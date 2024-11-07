@@ -27,12 +27,12 @@ This guide provides instructions on how to execute the Jupyter Notebook for trai
 
 ## Running the Notebook
 ### Locally
-1. **Open the Notebook**: Open `Project5_Submission_21BT30024.ipynb` in Jupyter Notebook.
+1. **Open the Notebook**: Open `Project5.ipynb` in Jupyter Notebook.
 2. **Define Paths**: Update the data paths in the notebook to point to the location where your dataset `Dataset2` is stored.
 3. **Follow the Execution Steps**: Run the cells in sequence from data augmentation to predictions.
 
 ### Using Google Colab
-1. **Upload the Notebook to Google Colab**: Go to Google Colab and upload `Project5_Submission_21BT30024.ipynb`.
+1. **Upload the Notebook to Google Colab**: Go to Google Colab and upload `Project5.ipynb`.
 2. **Mount Google Drive** (Optional): If your data is stored in Google Drive, follow the instructions in the notebook to mount your Google Drive.
 3. **Define Paths**: Update the data paths in the notebook to point to the location where your datasets are stored in Google Drive.
 4. **Follow the Execution Steps**: Execute the notebook cells in sequence from data augmentation to predictions.
